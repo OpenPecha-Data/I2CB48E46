@@ -5,11 +5,13 @@ source_metadata:
   title: གསེར་ཀོང་རྡོ་རྗེ་འཆང་ཆེན་པོའི་རྣམ་ཐར་སྐལ་བཟང་རེ་སྐོང
   author: ''
   volumes:
-    86cc3a3609294e87a705c51fc711fce7:
+    c9527147dc4d491ab2e222de26840a9e:
       image_group_id: I1GS105484
-      title: ''
+      title: Volume 1 of gser kong rdo rje 'chang chen po'i rnam thar skal bzang re
+        skong
       volume_number: 1
       total_pages: 324
+      base_file: v001.txt
 ebook_metadata:
   title: གསེར་ཀོང་རྡོ་རྗེ་འཆང་ཆེན་པོའི་རྣམ་ཐར་སྐལ་བཟང་རེ་སྐོང
   author: ''
